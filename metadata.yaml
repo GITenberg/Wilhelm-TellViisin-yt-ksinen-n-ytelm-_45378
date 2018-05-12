@@ -1,0 +1,47 @@
+_repo: Wilhelm-TellViisin-yt-ksinen-n-ytelm-_45378
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Lönnbohm, Armas Einar Leopold
+    - Vilkastus, Mikko
+    - Sepeteus, Kanttori
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+    - http://en.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45378'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tell, Wilhelm -- Drama'
+- !lcc 'PT'
+title: 'Wilhelm Tell: Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/45378
